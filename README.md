@@ -10,6 +10,8 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
-
-[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=devhastiness)](https://github.com/evirunurm/github-stats)
-[![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=devhastiness)](https://github.com/evirunurm/github-stats)
+<div> id="stat" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devhastiness&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devhastiness&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devhastiness&theme=github_dark)"/>
+</div>
