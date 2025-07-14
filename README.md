@@ -10,3 +10,6 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
+
+[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=devhastiness)](https://github.com/evirunurm/github-stats)
+[![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=devhastiness)](https://github.com/evirunurm/github-stats)
