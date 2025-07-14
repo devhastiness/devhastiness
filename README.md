@@ -13,5 +13,5 @@
 <div id="stat" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devhastiness&theme=github_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devhastiness&theme=github_dark"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devhastiness&theme=github_dark)"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devhastiness&theme=github_dark"/>
 </div>
